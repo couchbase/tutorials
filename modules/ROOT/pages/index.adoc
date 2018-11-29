@@ -34,7 +34,7 @@ xref:tutorials:mobile-travel-sample:csharp/design/data-modeling.adoc[C#]
 [.architect]
 == Architect
 [.title]
-xref:tutorials:mobile-travel-sample:swift/design/data-modeling.adoc[Deploy Couchbase in Kubernetes]
+xref:operator::demo.adoc[Deploy Couchbase in Kubernetes]
 
 === {empty}
 [.summary]
@@ -44,17 +44,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras accumsan mi a ligu
 
 ===== Components
 * Server 6.0
-
-===== Languages
-* N/A
 
 [.metadata]
 ==== Beginners
 
-[.devops]
-== DevOps
+[.developer]
+== Developer
 [.title]
-xref:tutorials:mobile-travel-sample:swift/design/data-modeling.adoc[Couchbase CI/CD Best Practices]
+xref:server:analytics:introduction.adoc[Couchbase Analytics Tutorial]
 
 === {empty}
 [.summary]
@@ -64,11 +61,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras accumsan mi a ligu
 
 ===== Components
 * Server 6.0
-
-===== Languages
-* Node.js
-* Java
-* Python
 
 [.metadata]
 ==== Intermediate
@@ -76,7 +68,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras accumsan mi a ligu
 [.developer]
 == Developer
 [.title]
-xref:tutorials:mobile-travel-sample:swift/design/data-modeling.adoc[Travel Sample]
+xref:nodejs-sdk::sample-application.adoc[Travel Sample]
 
 === {empty}
 [.summary]
@@ -97,7 +89,12 @@ xref:python-sdk::sample-application.adoc[Python]
 
 ===== Languages
 
-* N/A
+* JavaScript
+* Java
+* C
+* C#
+* PHP
+* Python
 
 [.metadata]
 ==== Beginners
@@ -118,12 +115,11 @@ xref:tutorials:hotel-lister:android.adoc[Java]
 ==== {empty}
 
 ===== Components
-
-* Server 6.0
+* Couchbase Lite 2.1
 
 ===== Languages
-
-* N/A
+* Swift
+* Java
 
 [.metadata]
 ==== Beginners
@@ -144,11 +140,9 @@ xref:tutorials:hotel-finder:android.adoc[Java]
 ==== {empty}
 
 ===== Components
-
 * Server 6.0
 
 ===== Languages
-
 * N/A
 
 [.metadata]
@@ -171,12 +165,12 @@ xref:tutorials:todo-app:introduction.adoc[ToDo App (1.x)]
 ==== {empty}
 
 ===== Components
-
-* Server 6.0
+* Sync Gateway 1.5
+* Couchbase Lite 1.4
 
 ===== Languages
-
-* N/A
+* Swift
+* Java
 
 [.metadata]
 ==== Beginners
