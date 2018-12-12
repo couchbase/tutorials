@@ -3,34 +3,6 @@
 :page-role: tiles
 :!sectids:
 
-[.developer]
-== Developer
-[.title]
-xref:tutorials:mobile-travel-sample:swift/design/data-modeling.adoc[Travel Sample Mobile]
-
-=== {empty}
-[.summary]
-An in-depth tutorial that demonstrates key end-to-end Couchbase Mobile 2.0 capabilities for iOS, Android and .NET (UWP and Xamarin) platforms. The Travel Sample app will allow users to search for and to make flight reservations Shared bucket access is enabled to allow web and mobile clients to perform the same operations on the bucket.
-[.links]
-xref:tutorials:mobile-travel-sample:swift/design/data-modeling.adoc[iOS]
-xref:tutorials:mobile-travel-sample:java/design/data-modeling.adoc[Java]
-xref:tutorials:mobile-travel-sample:csharp/design/data-modeling.adoc[C#]
-
-==== {empty}
-
-===== Components
-* Server 5.5
-* Lite 2.1
-* Sync Gateway 2.1
-
-===== Languages
-* Swift
-* Java
-* C#
-
-[.metadata]
-==== Intermediate
-
 [.architect]
 == Architect
 [.title]
@@ -51,7 +23,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras accumsan mi a ligu
 [.developer]
 == Developer
 [.title]
-xref:server:analytics:introduction.adoc[Couchbase Analytics Tutorial]
+xref:5.5@server:analytics:introduction.adoc[Couchbase Analytics Tutorial]
 
 === {empty}
 [.summary]
@@ -84,25 +56,45 @@ xref:python-sdk::sample-application.adoc[Python]
 ==== {empty}
 
 ===== Components
-
-* Server 6.0
+* Server 5.5
 
 ===== Languages
-
-* JavaScript
-* Java
-* C
-* C#
-* PHP
-* Python
+* JS, Java, C, PHP, Python
 
 [.metadata]
-==== Beginners
+==== Intermediate
 
 [.developer]
-== Developer
+== Mobile Developer
 [.title]
-xref:tutorials:mobile-travel-sample:swift/design/data-modeling.adoc[Building a Cordova Plugin]
+xref:tutorials:mobile-travel-sample:introduction.adoc[Travel Sample Mobile]
+
+=== {empty}
+[.summary]
+An in-depth tutorial that demonstrates key end-to-end Couchbase Mobile 2.0 capabilities for iOS, Android and .NET (UWP and Xamarin) platforms. The Travel Sample app will allow users to search for and to make flight reservations Shared bucket access is enabled to allow web and mobile clients to perform the same operations on the bucket.
+[.links]
+xref:tutorials:mobile-travel-sample:swift/design/data-modeling.adoc[iOS]
+xref:tutorials:mobile-travel-sample:java/design/data-modeling.adoc[Java]
+
+==== {empty}
+
+===== Components
+* Server 5.5
+* Lite 2.1
+* Sync Gateway 2.1
+
+===== Languages
+* Swift
+* Java
+* C#
+
+[.metadata]
+==== Intermediate
+
+[.developer]
+== Mobile Developer
+[.title]
+xref:tutorials:hotel-lister:ios.adoc[Building a Cordova Plugin]
 
 === {empty}
 [.summary]
@@ -125,9 +117,9 @@ xref:tutorials:hotel-lister:android.adoc[Java]
 ==== Beginners
 
 [.developer]
-== Developer
+== Mobile Developer
 [.title]
-xref:tutorials:mobile-travel-sample:swift/design/data-modeling.adoc[Building a React Native Module]
+xref:tutorials:hotel-finder:ios.adoc[Building a React Native Module]
 
 === {empty}
 [.summary]
@@ -149,9 +141,9 @@ xref:tutorials:hotel-finder:android.adoc[Java]
 ==== Beginners
 
 [.developer]
-== Developer
+== Mobile Developer
 [.title]
-xref:tutorials:mobile-travel-sample:swift/design/data-modeling.adoc[ToDo App]
+xref:tutorials:todo-app:introduction.adoc[ToDo App]
 
 === {empty}
 [.summary]
@@ -160,7 +152,8 @@ Users can authenticate, create lists with tasks.
 Each task can have an optional blob (image) attached to it.
 Lists can be shared with multiple users.
 [.links]
-xref:tutorials:todo-app:introduction.adoc[ToDo App (1.x)]
+xref:tutorials:todo-app:develop/swift/create-database.adoc[Swift]
+xref:tutorials:todo-app:develop/java/create-database.adoc[Java]
 
 ==== {empty}
 
