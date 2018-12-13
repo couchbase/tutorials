@@ -3,67 +3,6 @@
 :page-role: tiles
 :!sectids:
 
-[.architect]
-== Architect
-[.title]
-xref:operator::demo.adoc[Deploy Couchbase in Kubernetes]
-
-=== {empty}
-[.summary]
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras accumsan mi a ligula imperdiet, et cursus lectus bibendum. Etiam metus magna, dapibus vitae ipsum vel, sollicitudin interdum metus. Phasellus quis rutrum enim. Vivamus euismod sem nec posuere accumsan. Praesent elementum lectus vitae magna pellentesque, a facilisis risus pulvinar. Donec scelerisque porttitor aliquet.
-
-==== {empty}
-
-===== Components
-* Server 6.0
-
-[.metadata]
-==== Beginners
-
-[.developer]
-== Developer
-[.title]
-xref:5.5@server:analytics:introduction.adoc[Couchbase Analytics Tutorial]
-
-=== {empty}
-[.summary]
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras accumsan mi a ligula imperdiet, et cursus lectus bibendum. Etiam metus magna, dapibus vitae ipsum vel, sollicitudin interdum metus. Phasellus quis rutrum enim. Vivamus euismod sem nec posuere accumsan. Praesent elementum lectus vitae magna pellentesque, a facilisis risus pulvinar. Donec scelerisque porttitor aliquet.
-
-==== {empty}
-
-===== Components
-* Server 6.0
-
-[.metadata]
-==== Intermediate
-
-[.developer]
-== Developer
-[.title]
-xref:nodejs-sdk::sample-application.adoc[Travel Sample]
-
-=== {empty}
-[.summary]
-The application allows users to find flights by entering airports and travel dates. For the airport entries, the app uses a N1QL query bound to an Angular typeahead directive to suggest airport names based on the first few letters entered.
-[.links]
-xref:nodejs-sdk::sample-application.adoc[Node.js]
-xref:java-sdk::sample-application.adoc[Java]
-xref:c-sdk::sample-application.adoc[C]
-xref:dotnet-sdk::sample-application.adoc[.NET]
-xref:php-sdk::sample-application.adoc[PHP]
-xref:python-sdk::sample-application.adoc[Python]
-
-==== {empty}
-
-===== Components
-* Server 5.5
-
-===== Languages
-* JS, Java, C, PHP, Python
-
-[.metadata]
-==== Intermediate
-
 [.developer]
 == Mobile Developer
 [.title]
@@ -94,7 +33,7 @@ xref:tutorials:mobile-travel-sample:java/design/data-modeling.adoc[Java]
 [.developer]
 == Mobile Developer
 [.title]
-xref:tutorials:hotel-lister:ios.adoc[Building a Cordova Plugin]
+Building a Cordova Plugin
 
 === {empty}
 [.summary]
@@ -119,7 +58,7 @@ xref:tutorials:hotel-lister:android.adoc[Java]
 [.developer]
 == Mobile Developer
 [.title]
-xref:tutorials:hotel-finder:ios.adoc[Building a React Native Module]
+Building a React Native Module
 
 === {empty}
 [.summary]
@@ -163,6 +102,28 @@ xref:tutorials:todo-app:develop/java/create-database.adoc[Java]
 
 ===== Languages
 * Swift
+* Java
+
+[.metadata]
+==== Beginners
+
+[.developer]
+== Mobile Developer
+[.title]
+xref:tutorials:university-lister:android.adoc[Recycler Views with Live Queries]
+
+=== {empty}
+[.summary]
+This tutorial will demonstrate how you can use Couchbase Lite as a data source for Recycler Views in your Android application.
+[.links]
+
+
+==== {empty}
+
+===== Components
+* Couchbase Lite 2.1
+
+===== Languages
 * Java
 
 [.metadata]
