@@ -179,7 +179,7 @@ xref:tutorials:hotel-lister:android.adoc[Java]
 == Mobile Developer
 
 [.title]
-=== Building a React Native Module with Couchbase Lite
+=== xref:tutorials:hotel-finder:introduction.adoc[Building a React Native Module with Couchbase Lite]
 
 ==== {empty}
 [.summary]
