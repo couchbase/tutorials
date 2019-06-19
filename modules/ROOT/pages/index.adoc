@@ -16,6 +16,21 @@ The goal of a Customer 360 system is to deliver a single, consistent view of all
 [.links]
 xref:tutorials:customer-360:ingestion.adoc[Retail]
 
+===== {empty}
+
+====== Components 
+* Server 6.0
+* Kafka
+* MySQL
+* PostgreSQL
+* Docker
+
+====== Languages 
+* JavaScript
+
+[.metadata]
+=== Intermediate
+
 [.developer]
 == Mobile Developer
 
