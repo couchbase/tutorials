@@ -143,8 +143,8 @@ xref:sync@userprofile-couchbase-mobile:userprofile:android/userprofile_sync.adoc
 
 ====== Components
 * Server 5.5
-* Lite 2.5
-* Sync Gateway 2.5
+* Couchbase Lite 2.6
+* Sync Gateway 2.6
 
 ====== Languages
 * Java
@@ -231,6 +231,7 @@ xref:tutorials:hotel-lister:android.adoc[Java]
 ====== Languages
 * Swift
 * Java
+* Javascript
 
 [.metadata]
 === Beginner
@@ -252,10 +253,12 @@ xref:tutorials:hotel-finder:android.adoc[Java]
 ===== {empty}
 
 ====== Components
-* Server 6.0
+* Couchbase Lite 2.6
 
 ====== Languages
-* N/A
+* Javascript
+* Swift
+* Java
 
 [.metadata]
 === Beginner
