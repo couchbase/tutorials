@@ -49,7 +49,7 @@ xref:tutorials:mobile-travel-sample:csharp/installation/index.adoc[.NET]
 ===== {empty}
 
 ====== Components
-* Server 6.0.1
+* Server 6.5
 * Lite 2.7
 * Sync Gateway 2.7
 
