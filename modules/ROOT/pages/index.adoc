@@ -8,6 +8,29 @@
 == Developer
 
 [.title]
+=== xref:tutorials:tutorial-ce:index.adoc[Couchbase CE Getting Started]
+
+==== {empty}
+
+[.summary]
+Just getting started with Couchbase and using Couchbase CE? Start here. This currently covers basic installation and querying along with Java, NodeJS and Mobile development. 
+
+===== {empty}
+
+====== Components
+* CE Server 6.5
+* Mobile
+
+====== Languages
+* AsciiDoc
+
+[.metadata]
+=== Beginner
+
+[.developer]
+== Developer
+
+[.title]
 === Customer 360 Data Ingestion
 
 ==== {empty}
