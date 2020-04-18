@@ -362,6 +362,28 @@ However, developers quite often run into performance issues while using it, this
 == Developer
 
 [.title]
+=== xref:tutorials:openid-connect-implicit-flow:index.adoc[OpenID Connect with Sync Gateway]
+
+==== {empty}
+
+[.summary]
+A complete tutorial on how to set up an OpenID Connect authentication (using the implicit flow method) for Couchbase Sync Gateway.
+
+===== {empty}
+
+====== Components
+* Keycloak 
+* Couchbase Server 6.5
+* Couchbase Sync Gateway 2.7
+* Couchbase Lite 2.7
+
+====== Languages
+* Java
+
+[.metadata]
+=== Intermediate
+
+[.title]
 === xref:tutorials:tutorial-template:sample.adoc[Build Your Own Tutorial]
 
 ==== {empty}
