@@ -359,7 +359,7 @@ However, developers quite often run into performance issues while using it, this
 === Intermediate
 
 [.developer]
-== Developer
+== Mobile Developer
 
 [.title]
 === xref:tutorials:openid-connect-implicit-flow:index.adoc[OpenID Connect with Sync Gateway]
@@ -382,6 +382,9 @@ A complete tutorial on how to set up an OpenID Connect authentication (using the
 
 [.metadata]
 === Intermediate
+
+[.developer]
+== Developer
 
 [.title]
 === xref:tutorials:tutorial-template:sample.adoc[Build Your Own Tutorial]
