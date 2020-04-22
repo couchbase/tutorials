@@ -373,8 +373,8 @@ A complete tutorial on how to set up an OpenID Connect authentication (using the
 
 ====== Components
 * Keycloak 
-* Couchbase Server 6.5
-* Couchbase Sync Gateway and Lite 2.7
+* Server 6.5
+* Sync Gateway & Couchbase Lite 2.7
 
 ====== Languages
 * Java
