@@ -1,3 +1,6 @@
+.Getting Started
+include::getting-started-ce:partial$nav.adoc[]
+
 .Couchbase Server
 * Session Storage
 include::session-storage:partial$nav.adoc[]
