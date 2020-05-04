@@ -1,4 +1,4 @@
-.Get Started with Community Edition
+.Get Started with Couchbase Community Edition
 include::getting-started-ce:partial$nav.adoc[]
 
 .Couchbase Server
