@@ -6,6 +6,55 @@
 
 [.developer]
 == Developer
+ 
+[.title]
+=== xref:quick-start:quickstart-docker-image-manual-cb65.adoc[Quick Start Guides]
+
+==== {empty}
+
+[.summary]
+Just getting started with Couchbase? The Quick Start Guides provide a fast path through secondary lookup using Couchbase Server and native SDKs (2.x or 3.0) or frameworks such as Spring Data, Intellij, Ottoman, VSCode, and more. 
+
+===== {empty}
+
+====== Components
+* Server 6.5 CE or EE
+* SDK 2.x or 3.0 
+
+====== Languages
+* Java
+* Node.js
+
+[.metadata]
+=== Beginner
+
+[.developer]
+== Developer
+ 
+[.title]
+=== xref:getting-started-ce:index.adoc[Get Started with Community Edition]
+
+==== {empty}
+
+[.summary]
+Just getting started with Couchbase and using Couchbase Community Edition(CE)? Start here. This currently covers basic installation and querying along with Java, NodeJS and Mobile development. 
+
+===== {empty}
+
+====== Components
+* Server 6.5 CE
+* Sync Gateway 2.7
+* Lite 2.7
+
+====== Languages
+* Java
+* Node.js
+
+[.metadata]
+=== Beginner
+
+[.developer]
+== Developer
 
 [.title]
 === Customer 360 Data Ingestion

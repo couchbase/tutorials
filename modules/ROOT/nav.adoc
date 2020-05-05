@@ -1,3 +1,10 @@
+.Quick Start Guides
+* include::quick-start:partial$nav.adoc[]
+
+.Getting Started with Couchbase Community Edition
+include::getting-started-ce:partial$nav.adoc[]
+
+.Tutorials
 .Couchbase Server
 * Session Storage
 include::session-storage:partial$nav.adoc[]
