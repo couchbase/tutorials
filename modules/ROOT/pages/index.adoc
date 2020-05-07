@@ -8,12 +8,12 @@
 == Developer
  
 [.title]
-=== xref:quick-start:quickstart-docker-image-manual-cb65.adoc[Quick Start Guides]
+=== xref:quick-start:quickstart-docker-image-manual-cb65.adoc[Developer Bootstrap Exercises]
 
 ==== {empty}
 
 [.summary]
-Just getting started with Couchbase? The Quick Start Guides provide a fast path through secondary lookup using Couchbase Server and native SDKs (2.x or 3.0) or frameworks such as Spring Data, Intellij, Ottoman, VSCode, and more. 
+Are you a developer interested in a fast start with Couchbase? This expanding set of basic first-steps exercises provide a fast track from zero to your substantial interactions with Couchbase Server using your favorite development frameworks and IDEs. 
 
 ===== {empty}
 
