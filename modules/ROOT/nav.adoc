@@ -1,4 +1,4 @@
-.Quick Start Guides
+.Developer Bootstrap Exercises
 include::quick-start:partial$nav.adoc[]
 
 .Getting Started with Couchbase Community Edition
