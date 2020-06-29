@@ -23,6 +23,10 @@ image::book-reader-icon.svg[]
 </div>
 ++++
 
+== Tutorials
+++++
+<div class="card-row two-column-row">
+++++
 [.column]
 [.data-filter-column]
 ====== {empty}
@@ -780,6 +784,10 @@ Looking to build a tutorial and share with the Couchbase community? Take a look 
 [.box]
 .Languages
 * AsciiDoc
+
+++++
+</div>
+++++
 
 ++++
 </div>
