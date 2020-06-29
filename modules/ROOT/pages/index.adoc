@@ -27,13 +27,13 @@ image::book-reader-icon.svg[]
 [.data-filter-column]
 ====== {empty}
 ++++
-<div data-level="beginner" data-category="beginner java nodejs dotnet developer" class="sub-heading two-column-heading">
+<div data-category="beginner java nodejs dotnet developer" class="sub-heading two-column-heading">
 <h3 class="text-color-brand-blue-secondary">Developer Bootstrap Exercises</h3>
 <div class="filter-info">
 <h5 >
 <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
 Beginner</h5>
-<span data-role="beginner">Developer</span>
+<span>Developer</span>
 </div>
 </div>
 ++++
@@ -72,13 +72,13 @@ xref:quick-start:quickstart-docker-image-manual-cb65.adoc[Start Here]
 [.data-filter-column]
 ====== {empty}
 ++++
-    <div data-level="beginner" data-category="beginner java nodejs developer"  class="sub-heading two-column-heading">
+    <div data-category="beginner java nodejs developer"  class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Get Started with Community Edition</h3>
         <div class="filter-info">
             <h5 >
             <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
             Beginner</h5>
-            <span data-role="beginner">Developer</span>
+            <span>Developer</span>
         </div>
     </div>
 ++++
@@ -111,13 +111,13 @@ xref:getting-started-ce:index.adoc[Start Here]
 [.data-filter-column]
 ====== {empty}
 ++++
-    <div data-level="beginner" data-category="beginner swift mobile developer" class="sub-heading two-column-heading">
+    <div data-category="beginner swift mobile developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Get Started with Couchbase Mobile on iOS</h3>
         <div class="filter-info">
         <h5 >
         <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
         Beginner</h5>
-        <span data-role="beginner">Mobile Developer</span>
+        <span>Mobile Developer</span>
         </div>
     </div>
 ++++
@@ -159,13 +159,13 @@ The series of tutorials demonstrates the core capabilities of Couchbase Mobile w
 [.data-filter-column]
 ====== {empty}
 ++++
-    <div data-level="beginner" data-category="beginner android mobile developer" class="sub-heading two-column-heading">
+    <div data-category="beginner android mobile developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Get Started with Couchbase Mobile on Android</h3>
         <div class="filter-info">
         <h5 >
         <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
         Beginner</h5>
-        <span data-role="beginner">Mobile Developer</span>
+        <span>Mobile Developer</span>
         </div>
     </div>
 ++++
@@ -207,13 +207,13 @@ The series of tutorials demonstrates the core capabilities of Couchbase Mobile w
 [.data-filter-column]
 ====== {empty}
 ++++
-    <div data-level="beginner" data-category="beginner c# mobile developer" class="sub-heading two-column-heading">
+    <div data-category="beginner c# mobile developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Get Started with Couchbase Mobile on Xamarin</h3>
         <div class="filter-info">
         <h5 >
         <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
         Beginner</h5>
-        <span data-role="beginner">Mobile Developer</span>
+        <span>Mobile Developer</span>
         </div>
     </div>
 ++++
@@ -255,13 +255,13 @@ The series of tutorials demonstrates the core capabilities of Couchbase Mobile w
 [.data-filter-column]
 ====== {empty}
 ++++
-    <div data-level="beginner" data-category="beginner swift mobile developer" class="sub-heading two-column-heading">
+    <div data-category="beginner swift mobile developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Background Fetch with Couchbase Lite on iOS</h3>
         <div class="filter-info">
         <h5 >
         <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
         Beginner</h5>
-        <span data-role="beginner">Mobile Developer</span>
+        <span>Mobile Developer</span>
         </div>
     </div>
 ++++
@@ -296,13 +296,13 @@ This tutorial discusses how you can use iOS Background App Refresh capability to
 [.data-filter-column]
 ====== {empty}
 ++++
-    <div data-level="beginner" data-category="beginner swift java javascript mobile developer" class="sub-heading two-column-heading">
+    <div data-category="beginner swift java javascript mobile developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Building a Cordova Plugin with Couchbase Lite</h3>
         <div class="filter-info">
         <h5 >
         <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
         Beginner</h5>
-        <span data-role="beginner">Mobile Developer</span>
+        <span>Mobile Developer</span>
         </div>
     </div>
 ++++
@@ -338,13 +338,13 @@ The user Interface is written in JavaScript while the business logic and data mo
 [.data-filter-column]
 ====== {empty}
 ++++
-    <div data-level="beginner" data-category="beginner swift java javascript mobile developer" class="sub-heading two-column-heading">
+    <div data-category="beginner swift java javascript mobile developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Building a React Native Module with Couchbase Lite</h3>
         <div class="filter-info">
         <h5 >
         <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
         Beginner</h5>
-        <span data-role="beginner">Mobile Developer</span>
+        <span>Mobile Developer</span>
         </div>
     </div>
 ++++
@@ -380,13 +380,13 @@ The user Interface is written in JavaScript while the business logic and data mo
 [.data-filter-column]
 ====== {empty}
 ++++
-    <div data-level="beginner" data-category="beginner android java dotnet mobile developer" class="sub-heading two-column-heading">
+    <div data-category="beginner android java dotnet mobile developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Android Recycler Views with Couchbase Lite</h3>
         <div class="filter-info">
         <h5 >
         <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
         Beginner</h5>
-        <span data-role="beginner">Mobile Developer</span>
+        <span>Mobile Developer</span>
         </div>
     </div>
 ++++
@@ -418,13 +418,13 @@ This tutorial will demonstrate how you can use Couchbase Lite as a data source f
 [.data-filter-column]
 ====== {empty}
 ++++
-    <div data-level="beginner" data-category="beginner java dotnet developer" class="sub-heading two-column-heading">
+    <div data-category="beginner java dotnet developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Using Couchbase Server as a User Profile Store</h3>
         <div class="filter-info">
         <h5 >
         <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
         Beginner</h5>
-        <span data-role="beginner">Developer</span>
+        <span>Developer</span>
         </div>
     </div>
 ++++
@@ -459,13 +459,13 @@ An comprehensive tutorial that demonstrates how to use Couchbase Server, Spring 
 [.data-filter-column]
 ====== {empty}
 ++++
-    <div data-level="beginner" data-category="beginner java dotnet developer" class="sub-heading two-column-heading">
+    <div data-category="beginner java dotnet developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Using Couchbase Server as a User Profile Store</h3>
         <div class="filter-info">
         <h5 >
         <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
         Beginner</h5>
-        <span data-role="beginner">Developer</span>
+        <span>Developer</span>
         </div>
     </div>
 ++++
@@ -500,13 +500,13 @@ An comprehensive tutorial that demonstrates how to use Couchbase Server, Spring 
 [.data-filter-column]
 ====== {empty}
 ++++
-    <div data-level="beginner" data-category="beginner swift mobile developer" class="sub-heading two-column-heading">
+    <div data-category="beginner swift mobile developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Xcode playground for Couchbase Lite Query</h3>
         <div class="filter-info">
         <h5 >
         <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
         Beginner</h5>
-        <span data-role="beginner">Mobile Developer</span>
+        <span>Mobile Developer</span>
         </div>
     </div>
 ++++
@@ -538,13 +538,13 @@ A Xcode Playground to demonstrate and explore the Query interface in Couchbase L
 [.data-filter-column]
 ====== {empty}
 ++++
-    <div data-level="intermediate" data-category="intermediate swift android java c# mobile developer" class="sub-heading two-column-heading">
+    <div data-category="intermediate swift android java c# mobile developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Couchbase Mobile Workshop</h3>
         <div class="filter-info">
         <h5 >
         <img src="_/img/landing-page-icon/intermediate-icon.svg" alt="" />
         Intermediate</h5>
-        <span data-role="intermediate">Mobile Developer</span>
+        <span>Mobile Developer</span>
         </div>
     </div>
 ++++
@@ -585,13 +585,13 @@ At the end of this multi-part tutorial, you should have a good understanding of 
 [.data-filter-column]
 ====== {empty}
 ++++
-    <div data-level="intermediate" data-category="intermediate javascript developer" class="sub-heading two-column-heading">
+    <div data-category="intermediate javascript developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Customer 360 Data Ingestion</h3>
         <div class="filter-info">
         <h5 >
         <img src="_/img/landing-page-icon/intermediate-icon.svg" alt="" />
         Intermediate</h5>
-        <span data-role="intermediate">Developer</span>
+        <span>Developer</span>
         </div>
     </div>
 ++++
@@ -625,13 +625,13 @@ The goal of a Customer 360 system is to deliver a single, consistent view of all
 [.data-filter-column]
 ====== {empty}
 ++++
-    <div data-level="intermediate" data-category="intermediate java c# developer" class="sub-heading two-column-heading">
+    <div data-category="intermediate java c# developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Using Couchbase Server as a Session Store</h3>
         <div class="filter-info">
         <h5 >
         <img src="_/img/landing-page-icon/intermediate-icon.svg" alt="" />
         Intermediate</h5>
-        <span data-role="intermediate">Developer</span>
+        <span>Developer</span>
         </div>
     </div>
 ++++
@@ -667,13 +667,13 @@ You will learn how to read, write session data and query session data with N1QL 
 [.data-filter-column]
 ====== {empty}
 ++++
-    <div data-level="intermediate" data-category="intermediate java developer" class="sub-heading two-column-heading">
+    <div data-category="intermediate java developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Boosting Spring Data Performance with Couchbase</h3>
         <div class="filter-info">
         <h5 >
         <img src="_/img/landing-page-icon/intermediate-icon.svg" alt="" />
         Intermediate</h5>
-        <span data-role="intermediate">Developer</span>
+        <span>Developer</span>
         </div>
     </div>
 ++++
@@ -709,13 +709,13 @@ However, developers quite often run into performance issues while using it, this
 [.data-filter-column]
 ====== {empty}
 ++++
-    <div data-level="intermediate" data-category="intermediate java mobile developer" class="sub-heading two-column-heading">
+    <div data-category="intermediate java mobile developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">OpenID Connect with Sync Gateway</h3>
         <div class="filter-info">
         <h5 >
         <img src="_/img/landing-page-icon/intermediate-icon.svg" alt="" />
         Intermediate</h5>
-        <span data-role="intermediate">Mobile Developer</span>
+        <span>Mobile Developer</span>
         </div>
     </div>
 ++++
@@ -751,13 +751,13 @@ A complete tutorial on how to set up an OpenID Connect authentication (using the
 [.data-filter-column]
 ====== {empty}
 ++++
-    <div data-level="beginner" data-category="beginner developer" class="sub-heading two-column-heading">
+    <div data-category="beginner developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Build Your Own Tutorial</h3>
         <div class="filter-info">
         <h5 >
         <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
         Beginner</h5>
-        <span data-role="beginner">Developer</span>
+        <span>Developer</span>
         </div>
     </div>
 ++++
@@ -780,90 +780,6 @@ Looking to build a tutorial and share with the Couchbase community? Take a look 
 [.box]
 .Languages
 * AsciiDoc
-
-++++
-</div>
-++++
-
-
-[.column]
-[.data-filter-column]
-====== {empty}
-++++
-    <div data-level="intermediate" data-category="intermediate react developer" class="sub-heading two-column-heading">
-        <h3 class="text-color-brand-blue-secondary">Lorem ipsum</h3>
-        <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/intermediate-icon.svg" alt="" />
-        Intermediate</h5>
-        <span>Developer</span>
-        </div>
-    </div>
-++++
-[.content]
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras accumsan mi a ligula imperdiet, et cursus lectus bibendum. Etiam metus magna, dapibus vitae ipsum vel, sollicitudin interdum metus. Phasellus quis rutrum enim. Vivamus euismod sem nec posuere accumsan. Praesent elementum lectus vitae magna pellentesque, a facilisis risus pulvinar. Donec scelerisque porttitor aliquet.
-
-++++
-<div class="other-info-list">
-++++
-
-[.box]
-
-* xref:#[Lorem ipsum]
-* xref:#[Lorem ipsum]
-
-[.box]
-.Component
-* Lorem ipsum
-* Lorem ipsum
-* Lorem ipsum
-
-[.box]
-.Languages
-* React
-
-++++
-</div>
-++++
-
-[.column]
-[.data-filter-column]
-====== {empty}
-++++
-    <div data-level="advanced" data-category="advanced angular react vue architect" class="sub-heading two-column-heading">
-        <h3 class="text-color-brand-blue-secondary">Lorem ipsum</h3>
-        <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/advanced-icon.svg" alt="" />
-        Advanced</h5>
-        <span>Architect</span>
-        </div>
-    </div>
-++++
-[.content]
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras accumsan mi a ligula imperdiet, et cursus lectus bibendum. Etiam metus magna, dapibus vitae ipsum vel, sollicitudin interdum metus. Phasellus quis rutrum enim. Vivamus euismod sem nec posuere accumsan. Praesent elementum lectus vitae magna pellentesque, a facilisis risus pulvinar. Donec scelerisque porttitor aliquet.
-
-++++
-<div class="other-info-list">
-++++
-
-[.box]
-
-* xref:#[Lorem ipsum]
-
-[.box]
-.Component
-* Lorem ipsum
-* Lorem ipsum
-* Lorem ipsum
-
-[.box]
-.Languages
-* Angular
-* React
-* Vue
 
 ++++
 </div>
