@@ -17,7 +17,7 @@ The tutorials listed on this page are available as reference samples. In additio
 [.column]
 ====== {empty}
 [.media-left]
-pass:[<i class="fas fa-book-reader"></i>]
+pass:[<i class="fas fa-book-reader fa-7x"></i>]
 
 ++++
 </div>
