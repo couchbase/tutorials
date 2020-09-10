@@ -3,6 +3,8 @@
 :page-role: tiles
 :!sectids:
 
+include::tutorials:ROOT:partial$_attributes-local.adoc[]
+
 = Couchbase Tutorials
 ++++
 <div class="card-row">
@@ -34,16 +36,15 @@ pass:[<i class="fas fa-book-reader fa-7x"></i>]
 <div data-category="beginner java nodejs dotnet developer" class="sub-heading two-column-heading">
 <h3 class="text-color-brand-blue-secondary">Developer Bootstrap Exercises</h3>
 <div class="filter-info">
-<h5 >
-<img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
-Beginner</h5>
-<span>Developer</span>
+++++
+pass:attributes[<h5><img src="{url-icon-beginner}" alt="" />Beginner</h5><span>Developer</span>]
+++++
 </div>
 </div>
 ++++
 [.content]
 
-Are you a developer interested in a fast start with Couchbase? This expanding set of basic first-steps exercises provide a fast track from zero to your substantial interactions with Couchbase Server using your favorite development frameworks and IDEs. 
+Are you a developer interested in a fast start with Couchbase? This expanding set of basic first-steps exercises provide a fast track from zero to your substantial interactions with Couchbase Server using your favorite development frameworks and IDEs.
 
 xref:quick-start:quickstart-docker-image-manual-cb65.adoc[Start Here]
 
@@ -79,16 +80,15 @@ xref:quick-start:quickstart-docker-image-manual-cb65.adoc[Start Here]
     <div data-category="beginner java nodejs developer"  class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Get Started with Community Edition</h3>
         <div class="filter-info">
-            <h5 >
-            <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
-            Beginner</h5>
-            <span>Developer</span>
+++++
+pass:attributes[<h5><img src="{url-icon-beginner}" alt="" />Beginner</h5><span>Developer</span>]
+++++
         </div>
     </div>
 ++++
 [.content]
 
-Just getting started with Couchbase and using Couchbase Community Edition(CE)? Start here. This currently covers basic installation and querying along with Java, NodeJS, and Mobile development. 
+Just getting started with Couchbase and using Couchbase Community Edition(CE)? Start here. This currently covers basic installation and querying along with Java, NodeJS, and Mobile development.
 
 xref:getting-started-ce:index.adoc[Start Here]
 
@@ -118,10 +118,9 @@ xref:getting-started-ce:index.adoc[Start Here]
     <div data-category="beginner swift mobile developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Get Started with Couchbase Mobile on iOS</h3>
         <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
-        Beginner</h5>
-        <span>Mobile Developer</span>
+++++
+pass:attributes[<h5><img src="{url-icon-beginner}" alt="" />Beginner</h5><span>Mobile Developer</span>]
+++++
         </div>
     </div>
 ++++
@@ -166,10 +165,9 @@ The series of tutorials demonstrates the core capabilities of Couchbase Mobile w
     <div data-category="beginner android mobile developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Get Started with Couchbase Mobile on Android</h3>
         <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
-        Beginner</h5>
-        <span>Mobile Developer</span>
+++++
+pass:attributes[<h5><img src="{url-icon-beginner}" alt="" />Beginner</h5><span>Mobile Developer</span>]
+++++
         </div>
     </div>
 ++++
@@ -214,10 +212,9 @@ The series of tutorials demonstrates the core capabilities of Couchbase Mobile w
     <div data-category="beginner c# mobile developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Get Started with Couchbase Mobile on Xamarin</h3>
         <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
-        Beginner</h5>
-        <span>Mobile Developer</span>
+++++
+pass:attributes[<h5><img src="{url-icon-beginner}" alt="" />Beginner</h5><span>Mobile Developer</span>]
+++++
         </div>
     </div>
 ++++
@@ -255,6 +252,28 @@ The series of tutorials demonstrates the core capabilities of Couchbase Mobile w
 </div>
 ++++
 
+// BEGIN include P2P sync over websocket tutorials - one entry per language/platform
+:param-language: Swift
+:param-platform: iOS
+:param-module: swift
+include::partial$p2p-sync-entry-skeleton.adoc[]
+
+:param-language: Java
+:param-module: java
+include::partial$p2p-sync-entry-skeleton.adoc[]
+
+:param-language: Android (Java)
+:param-module: android
+:param-platform: Android
+include::partial$p2p-sync-entry-skeleton.adoc[]
+
+:param-language: C#.Net
+:param-platform: Xamarin
+:param-module: csharp
+include::partial$p2p-sync-entry-skeleton.adoc[]
+// END include P2P sync over websocket tutorials - one entry per language/platform
+
+
 [.column]
 [.data-filter-column]
 ====== {empty}
@@ -262,16 +281,15 @@ The series of tutorials demonstrates the core capabilities of Couchbase Mobile w
     <div data-category="beginner swift mobile developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Background Fetch with Couchbase Lite on iOS</h3>
         <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
-        Beginner</h5>
-        <span>Mobile Developer</span>
+++++
+pass:attributes[<h5><img src="{url-icon-beginner}" alt="" />Beginner</h5><span>Mobile Developer</span>]
+++++
         </div>
     </div>
 ++++
 [.content]
 
-This tutorial discusses how you can use iOS Background App Refresh capability to sync data when in the background. 
+This tutorial discusses how you can use iOS Background App Refresh capability to sync data when in the background.
 
 ++++
 <div class="other-info-list">
@@ -303,10 +321,9 @@ This tutorial discusses how you can use iOS Background App Refresh capability to
     <div data-category="beginner swift java javascript mobile developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Building a Cordova Plugin with Couchbase Lite</h3>
         <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
-        Beginner</h5>
-        <span>Mobile Developer</span>
+++++
+pass:attributes[<h5><img src="{url-icon-beginner}" alt="" />Beginner</h5><span>Mobile Developer</span>]
+++++
         </div>
     </div>
 ++++
@@ -345,10 +362,9 @@ The user Interface is written in JavaScript while the business logic and data mo
     <div data-category="beginner swift java javascript mobile developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Building a React Native Module with Couchbase Lite</h3>
         <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
-        Beginner</h5>
-        <span>Mobile Developer</span>
+++++
+pass:attributes[<h5><img src="{url-icon-beginner}" alt="" />Beginner</h5><span>Mobile Developer</span>]
+++++
         </div>
     </div>
 ++++
@@ -387,10 +403,9 @@ The user Interface is written in JavaScript while the business logic and data mo
     <div data-category="beginner android java dotnet mobile developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Android Recycler Views with Couchbase Lite</h3>
         <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
-        Beginner</h5>
-        <span>Mobile Developer</span>
+++++
+pass:attributes[<h5><img src="{url-icon-beginner}" alt="" />Beginner</h5><span>Mobile Developer</span>]
+++++
         </div>
     </div>
 ++++
@@ -425,10 +440,9 @@ This tutorial will demonstrate how you can use Couchbase Lite as a data source f
     <div data-category="beginner java dotnet developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Using Couchbase Server as a User Profile Store</h3>
         <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
-        Beginner</h5>
-        <span>Developer</span>
+++++
+pass:attributes[<h5><img src="{url-icon-beginner}" alt="" />Beginner</h5><span>Developer</span>]
+++++
         </div>
     </div>
 ++++
@@ -466,10 +480,9 @@ An comprehensive tutorial that demonstrates how to use Couchbase Server, Spring 
     <div data-category="beginner java dotnet developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Using Couchbase Server as a User Profile Store</h3>
         <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
-        Beginner</h5>
-        <span>Developer</span>
+++++
+pass:attributes[<h5><img src="{url-icon-beginner}" alt="" />Beginner</h5><span>Developer</span>]
+++++
         </div>
     </div>
 ++++
@@ -507,10 +520,9 @@ An comprehensive tutorial that demonstrates how to use Couchbase Server, Spring 
     <div data-category="beginner swift mobile developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Xcode playground for Couchbase Lite Query</h3>
         <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
-        Beginner</h5>
-        <span>Mobile Developer</span>
+++++
+pass:attributes[<h5><img src="{url-icon-beginner}" alt="" />Beginner</h5><span>Mobile Developer</span>]
+++++
         </div>
     </div>
 ++++
@@ -545,10 +557,9 @@ A Xcode Playground to demonstrate and explore the Query interface in Couchbase L
     <div data-category="intermediate swift android java c# mobile developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Couchbase Mobile Workshop</h3>
         <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/intermediate-icon.svg" alt="" />
-        Intermediate</h5>
-        <span>Mobile Developer</span>
+++++
+pass:attributes[<h5><img src="{url-icon-intermediate}" alt="" />Intermediate</h5><span>Mobile Developer</span>]
+++++
         </div>
     </div>
 ++++
@@ -592,10 +603,9 @@ At the end of this multi-part tutorial, you should have a good understanding of 
     <div data-category="intermediate javascript developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Customer 360 Data Ingestion</h3>
         <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/intermediate-icon.svg" alt="" />
-        Intermediate</h5>
-        <span>Developer</span>
+++++
+pass:attributes[<h5><img src="{url-icon-intermediate}" alt="" />Intermediate</h5><span>Developer</span>]
+++++
         </div>
     </div>
 ++++
@@ -632,10 +642,9 @@ The goal of a Customer 360 system is to deliver a single, consistent view of all
     <div data-category="intermediate java c# developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Using Couchbase Server as a Session Store</h3>
         <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/intermediate-icon.svg" alt="" />
-        Intermediate</h5>
-        <span>Developer</span>
+++++
+pass:attributes[<h5><img src="{url-icon-intermediate}" alt="" />Intermediate</h5><span>Developer</span>]
+++++
         </div>
     </div>
 ++++
@@ -674,10 +683,9 @@ You will learn how to read, write session data and query session data with N1QL 
     <div data-category="intermediate java developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Boosting Spring Data Performance with Couchbase</h3>
         <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/intermediate-icon.svg" alt="" />
-        Intermediate</h5>
-        <span>Developer</span>
+++++
+pass:attributes[<h5><img src="{url-icon-intermediate}" alt="" />Intermediate</h5><span>Developer</span>]
+++++
         </div>
     </div>
 ++++
@@ -693,7 +701,6 @@ However, developers quite often run into performance issues while using it, this
 ++++
 
 [.box]
-
 * xref:tutorials:spring-data-indexes:spring-index.adoc[Start Here]
 
 
@@ -716,10 +723,9 @@ However, developers quite often run into performance issues while using it, this
     <div data-category="intermediate java mobile developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">OpenID Connect with Sync Gateway</h3>
         <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/intermediate-icon.svg" alt="" />
-        Intermediate</h5>
-        <span>Mobile Developer</span>
+++++
+pass:attributes[<h5><img src="{url-icon-intermediate}" alt="" />Intermediate</h5><span>Mobile Developer</span>]
+++++
         </div>
     </div>
 ++++
@@ -758,10 +764,9 @@ A complete tutorial on how to set up an OpenID Connect authentication (using the
     <div data-category="beginner developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">Build Your Own Tutorial</h3>
         <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
-        Beginner</h5>
-        <span>Developer</span>
+++++
+pass:attributes[<h5><img src="{url-icon-beginner}" alt="" />Beginner</h5><span>Developer</span>]
+++++
         </div>
     </div>
 ++++

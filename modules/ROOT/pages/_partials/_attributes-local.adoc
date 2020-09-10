@@ -1,0 +1,4 @@
+// Set url attributes for each icon image
+:url-icon-beginner: ../_/img/landing-page-icon/beginner-icon.svg
+:url-icon-intermediate: ../_/img/landing-page-icon/Intermediate-icon.svg
+:url-icon-advanced: ../_/img/landing-page-icon/advanced-icon.svg
