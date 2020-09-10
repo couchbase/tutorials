@@ -713,6 +713,50 @@ However, developers quite often run into performance issues while using it, this
 [.data-filter-column]
 ====== {empty}
 ++++
+    <div data-category="intermediate swift android java c# mobile developer" class="sub-heading two-column-heading">
+        <h3 class="text-color-brand-blue-secondary">Inventory Sample: Peer to Peer Sync</h3>
+        <div class="filter-info">
+        <h5 >
+        <img src="_/img/landing-page-icon/intermediate-icon.svg" alt="" />
+        Intermediate</h5>
+        <span>Mobile Developer</span>
+        </div>
+    </div>
+++++
+[.content]
+
+This tutorial uses a simple inventory app to demonstrate the peer-to-peer functionality.
+
+++++
+<div class="other-info-list">
+++++
+
+[.box]
+
+* xref:tutorials:cbl-p2p-sync-websockets:swift/cbl-p2p-sync-websockets.adoc[Swift]
+* xref:tutorials:cbl-p2p-sync-websockets:android/cbl-p2p-sync-websockets.adoc[Android]
+* xref:tutorials:cbl-p2p-sync-websockets:java/cbl-p2p-sync-websockets.adoc[Java]
+* xref:tutorials:cbl-p2p-sync-websockets:csharp/cbl-p2p-sync-websockets.adoc[C#]
+
+
+[.box]
+.Component
+* Couchbase Lite 2.8
+
+[.box]
+.Languages
+* Swift
+* Java (Android and Desktop)
+* C#
+
+++++
+</div>
+++++
+
+[.column]
+[.data-filter-column]
+====== {empty}
+++++
     <div data-category="intermediate java mobile developer" class="sub-heading two-column-heading">
         <h3 class="text-color-brand-blue-secondary">OpenID Connect with Sync Gateway</h3>
         <div class="filter-info">

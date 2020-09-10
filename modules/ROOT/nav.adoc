@@ -25,6 +25,8 @@ include::university-lister:partial$nav.adoc[]
 include::hotel-lister:partial$nav.adoc[]
 * Build a React Native Module
 include::hotel-finder:partial$nav.adoc[]
+* Inventory Sample: Peer-to-Peer Sync
+include::cbl-p2p-sync-websockets:partial$nav.adoc[]
 * OpenID Connect Tutorial
 include::openid-connect-implicit-flow:partial$nav.adoc[]
 
