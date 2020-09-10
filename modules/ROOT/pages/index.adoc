@@ -253,7 +253,6 @@ The series of tutorials demonstrates the core capabilities of Couchbase Mobile w
 ++++
 
 // BEGIN include P2P sync over websocket tutorials - one entry per language/platform
-
 :param-language: Swift
 :param-platform: iOS
 :param-module: swift
