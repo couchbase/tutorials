@@ -4,129 +4,88 @@
 :!sectids:
 
 = Couchbase Tutorials
-++++
-<div class="card-row">
-++++
 
-[.column]
-====== {empty}
+[.col-2]
+==== {empty}
 [.content]
 Go hands-on with Couchbase Tutorials.
 The tutorials listed on this page are available as reference samples. In addition to these tutorials, Couchbase Documentation also provides Getting Started guides as part of the product documentation.
-
-[.column]
-====== {empty}
 [.media-left]
 pass:[<i class="fas fa-book-reader fa-7x"></i>]
 
-++++
-</div>
-++++
-
 == Tutorials
-++++
-<div class="card-row two-column-row">
-++++
-[.column]
-[.data-filter-column]
-====== {empty}
-++++
-<div data-category="beginner java nodejs dotnet developer" class="sub-heading two-column-heading">
-<h3 class="text-color-brand-blue-secondary">Developer Bootstrap Exercises</h3>
-<div class="filter-info">
-<h5 >
-<img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
-Beginner</h5>
-<span>Developer</span>
-</div>
-</div>
-++++
-[.content]
 
+// add filter keywords as a class with card class.
+[.card.beginner.java.nodejs.dotnet.developer]
+
+=== Developer Bootstrap Exercises
+
+[.tut-metadata]
+==== {empty}
+[.tut-level]
+Beginner
+[.developer]
+Developer
+
+[.tut-content]
+==== {empty}
+[.summary]
 Are you a developer interested in a fast start with Couchbase? This expanding set of basic first-steps exercises provide a fast track from zero to your substantial interactions with Couchbase Server using your favorite development frameworks and IDEs. 
 
 xref:quick-start:quickstart-docker-image-manual-cb65.adoc[Start Here]
 
-++++
-<div class="other-info-list">
-++++
-
-[.box]
-[.component]
-
+[.tut-list]
+==== {empty}
 .Component
 * Server 6.5 CE or EE
 * SDK 3.0 or 2.x
-
-[.box]
-[.languages]
 
 .Languages
 * Java
 * Node.js
 * .NET
 
-++++
-</div>
-++++
+[.card.beginner.java.nodejs.developer]
+=== Get Started with Community Edition
 
+[.tut-metadata]
+==== {empty}
+[.tut-level]
+Beginner
+[.developer]
+Developer
 
-
-[.column]
-[.data-filter-column]
-====== {empty}
-++++
-    <div data-category="beginner java nodejs developer"  class="sub-heading two-column-heading">
-        <h3 class="text-color-brand-blue-secondary">Get Started with Community Edition</h3>
-        <div class="filter-info">
-            <h5 >
-            <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
-            Beginner</h5>
-            <span>Developer</span>
-        </div>
-    </div>
-++++
-[.content]
-
+[.tut-content]
+==== {empty}
+[.summary]
 Just getting started with Couchbase and using Couchbase Community Edition(CE)? Start here. This currently covers basic installation and querying along with Java, NodeJS, and Mobile development. 
 
 xref:getting-started-ce:index.adoc[Start Here]
 
-++++
-<div class="other-info-list">
-++++
-
-[.box]
+[.tut-list]
+==== {empty}
 .Component
 * Server 6.5 Community Edition
 * Sync Gateway 2.7
 * Couchbase Lite 2.7
 
-[.box]
 .Languages
 * Java
 * Node.js
 
-++++
-</div>
-++++
+[.card.beginner.swift.mobile.developer]
+=== Get Started with Couchbase Mobile on iOS
 
-[.column]
-[.data-filter-column]
-====== {empty}
-++++
-    <div data-category="beginner swift mobile developer" class="sub-heading two-column-heading">
-        <h3 class="text-color-brand-blue-secondary">Get Started with Couchbase Mobile on iOS</h3>
-        <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
-        Beginner</h5>
-        <span>Mobile Developer</span>
-        </div>
-    </div>
-++++
-[.content]
+[.tut-metadata]
+==== {empty}
+[.tut-level]
+Beginner
+[.developer]
+Mobile Developer
 
+[.tut-content]
+==== {empty}
+[.summary]
 The series of tutorials demonstrates the core capabilities of Couchbase Mobile with an iOS app:
 
 * "Standalone": database and CRUD operations.
@@ -134,47 +93,33 @@ The series of tutorials demonstrates the core capabilities of Couchbase Mobile w
 * "Sync": use of Sync Gateway for data sync between clients.
 
 
-++++
-<div class="other-info-list">
-++++
-
-[.box]
-
+[.tut-list]
+==== {empty}
 * xref:standalone@userprofile-couchbase-mobile:userprofile:userprofile_basic.adoc[Standalone]
 * xref:query@userprofile-couchbase-mobile:userprofile:userprofile_query.adoc[Query]
 * xref:sync@userprofile-couchbase-mobile:userprofile:userprofile_sync.adoc[Sync]
 
-
-[.box]
 .Component
 * Server 5.5
 * Couchbase Lite 2.1
 * Sync Gateway 2.1
 
-[.box]
 .Languages
 * Swift
 
-++++
-</div>
-++++
+[.card.beginner.android.mobile.developer]
+=== Get Started with Couchbase Mobile on Android
 
-[.column]
-[.data-filter-column]
-====== {empty}
-++++
-    <div data-category="beginner android mobile developer" class="sub-heading two-column-heading">
-        <h3 class="text-color-brand-blue-secondary">Get Started with Couchbase Mobile on Android</h3>
-        <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
-        Beginner</h5>
-        <span>Mobile Developer</span>
-        </div>
-    </div>
-++++
-[.content]
+[.tut-metadata]
+==== {empty}
+[.tut-level]
+Beginner
+[.developer]
+Mobile Developer
 
+[.tut-content]
+==== {empty}
+[.summary]
 The series of tutorials demonstrates the core capabilities of Couchbase Mobile with an Android app:
 
 * "Standalone": database and CRUD operations.
@@ -182,47 +127,33 @@ The series of tutorials demonstrates the core capabilities of Couchbase Mobile w
 * "Sync": use of Sync Gateway for data sync between clients.
 
 
-++++
-<div class="other-info-list">
-++++
-
-[.box]
-
+[.tut-list]
+==== {empty}
 * xref:standalone@userprofile-couchbase-mobile:userprofile:android/userprofile_basic.adoc[Standalone]
 * xref:query@userprofile-couchbase-mobile:userprofile:android/userprofile_query.adoc[Query]
 * xref:sync@userprofile-couchbase-mobile:userprofile:android/userprofile_sync.adoc[Sync]
 
-
-[.box]
 .Component
 * Server 5.5
 * Couchbase Lite 2.6
 * Sync Gateway 2.6
 
-[.box]
 .Languages
 * Java
 
-++++
-</div>
-++++
+[.card.beginner.c#.mobile.developer]
+=== Get Started with Couchbase Mobile on Xamarin
 
-[.column]
-[.data-filter-column]
-====== {empty}
-++++
-    <div data-category="beginner c# mobile developer" class="sub-heading two-column-heading">
-        <h3 class="text-color-brand-blue-secondary">Get Started with Couchbase Mobile on Xamarin</h3>
-        <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
-        Beginner</h5>
-        <span>Mobile Developer</span>
-        </div>
-    </div>
-++++
-[.content]
+[.tut-metadata]
+==== {empty}
+[.tut-level]
+Beginner
+[.developer]
+Mobile Developer
 
+[.tut-content]
+==== {empty}
+[.summary]
 The series of tutorials demonstrates the core capabilities of Couchbase Mobile with a Xamarin app:
 
 * "Standalone": database and CRUD operations.
@@ -230,565 +161,358 @@ The series of tutorials demonstrates the core capabilities of Couchbase Mobile w
 * "Sync": use of Sync Gateway for data sync between clients.
 
 
-++++
-<div class="other-info-list">
-++++
-
-[.box]
-
+[.tut-list]
+==== {empty}
 * xref:standalone@userprofile-couchbase-mobile:userprofile:xamarin/userprofile_basic.adoc[Standalone]
 * xref:query@userprofile-couchbase-mobile:userprofile:xamarin/userprofile_query.adoc[Query]
 * xref:sync@userprofile-couchbase-mobile:userprofile:xamarin/userprofile_sync.adoc[Sync]
 
-
-[.box]
 .Component
 * Server 5.5
 * Couchbase Lite 2.1
 * Sync Gateway 2.1
 
-[.box]
 .Languages
 * C#
 
-++++
-</div>
-++++
+[.card.beginner.swift.mobile.developer]
+=== Background Fetch with Couchbase Lite on iOS
 
-[.column]
-[.data-filter-column]
-====== {empty}
-++++
-    <div data-category="beginner swift mobile developer" class="sub-heading two-column-heading">
-        <h3 class="text-color-brand-blue-secondary">Background Fetch with Couchbase Lite on iOS</h3>
-        <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
-        Beginner</h5>
-        <span>Mobile Developer</span>
-        </div>
-    </div>
-++++
-[.content]
+[.tut-metadata]
+==== {empty}
+[.tut-level]
+Beginner
+[.developer]
+Mobile Developer
 
-This tutorial discusses how you can use iOS Background App Refresh capability to sync data when in the background. 
+[.tut-content]
+==== {empty}
+[.summary]
+This tutorial discusses how you can use iOS Background App Refresh capability to sync data when in the background.
 
-++++
-<div class="other-info-list">
-++++
 
-[.box]
-
+[.tut-list]
+==== {empty}
 * xref:backgroundfetch@userprofile-couchbase-mobile:userprofile:background-fetch.adoc[Start Here]
 
-
-[.box]
 .Component
 * Server 5.5
 * Couchbase Lite 2.1
 * Sync Gateway 2.1
 
-[.box]
 .Languages
 * Swift
 
-++++
-</div>
-++++
+[.card.beginner.swift.java.javascript.mobile.developer]
+=== Building a Cordova Plugin with Couchbase Lite
 
-[.column]
-[.data-filter-column]
-====== {empty}
-++++
-    <div data-category="beginner swift java javascript mobile developer" class="sub-heading two-column-heading">
-        <h3 class="text-color-brand-blue-secondary">Building a Cordova Plugin with Couchbase Lite</h3>
-        <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
-        Beginner</h5>
-        <span>Mobile Developer</span>
-        </div>
-    </div>
-++++
-[.content]
+[.tut-metadata]
+==== {empty}
+[.tut-level]
+Beginner
+[.developer]
+Mobile Developer
 
+[.tut-content]
+==== {empty}
+[.summary]
 In this tutorial, you will learn how to use Couchbase Lite in a Cordova plugin for an Ionic project targeting iOS and Android.
 The user Interface is written in JavaScript while the business logic and data model is written in native Swift/Java.
 
-++++
-<div class="other-info-list">
-++++
 
-[.box]
-
+[.tut-list]
+==== {empty}
 * xref:tutorials:hotel-lister:ios.adoc[Swift]
 * xref:tutorials:hotel-lister:android.adoc[Java]
 
-[.box]
 .Component
 * Couchbase Lite 2.1
 
-[.box]
 .Languages
 * Swift
 * Java
 * Javascript
 
-++++
-</div>
-++++
+[.card.beginner.swift.java.javascript.mobile.developer]
+=== Building a React Native Module with Couchbase Lite
 
-[.column]
-[.data-filter-column]
-====== {empty}
-++++
-    <div data-category="beginner swift java javascript mobile developer" class="sub-heading two-column-heading">
-        <h3 class="text-color-brand-blue-secondary">Building a React Native Module with Couchbase Lite</h3>
-        <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
-        Beginner</h5>
-        <span>Mobile Developer</span>
-        </div>
-    </div>
-++++
-[.content]
+[.tut-metadata]
+==== {empty}
+[.tut-level]
+Beginner
+[.developer]
+Mobile Developer
 
+[.tut-content]
+==== {empty}
+[.summary]
 In this tutorial, you will learn how to use Couchbase Lite in a React Native project for iOS and Android.
 The user Interface is written in JavaScript while the business logic and data model is written in native Swift/Java.
 
-++++
-<div class="other-info-list">
-++++
 
-[.box]
-
+[.tut-list]
+==== {empty}
 * xref:tutorials:hotel-finder:ios.adoc[Swift]
 * xref:tutorials:hotel-finder:android.adoc[Java]
 
-[.box]
 .Component
 * Couchbase Lite 2.6
 
-[.box]
 .Languages
 * Swift
 * Java
 * Javascript
 
-++++
-</div>
-++++
+[.card.beginner.android.java.dotnet.mobile.developer]
+=== Android Recycler Views with Couchbase Lite
 
-[.column]
-[.data-filter-column]
-====== {empty}
-++++
-    <div data-category="beginner android java dotnet mobile developer" class="sub-heading two-column-heading">
-        <h3 class="text-color-brand-blue-secondary">Android Recycler Views with Couchbase Lite</h3>
-        <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
-        Beginner</h5>
-        <span>Mobile Developer</span>
-        </div>
-    </div>
-++++
-[.content]
+[.tut-metadata]
+==== {empty}
+[.tut-level]
+Beginner
+[.developer]
+Mobile Developer
 
+[.tut-content]
+==== {empty}
+[.summary]
 This tutorial will demonstrate how you can use Couchbase Lite as a data source for Recycler Views in your Android application.
 
-++++
-<div class="other-info-list">
-++++
 
-[.box]
-
+[.tut-list]
+==== {empty}
 * xref:tutorials:university-lister:android.adoc[Start Here]
 
-[.box]
 .Component
 * Couchbase Lite 2.1
 
-[.box]
 .Languages
 * Java
 
-++++
-</div>
-++++
+[.card.beginner.java.dotnet.developer]
+=== Using Couchbase Server as a User Profile Store
 
-[.column]
-[.data-filter-column]
-====== {empty}
-++++
-    <div data-category="beginner java dotnet developer" class="sub-heading two-column-heading">
-        <h3 class="text-color-brand-blue-secondary">Using Couchbase Server as a User Profile Store</h3>
-        <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
-        Beginner</h5>
-        <span>Developer</span>
-        </div>
-    </div>
-++++
-[.content]
+[.tut-metadata]
+==== {empty}
+[.tut-level]
+Beginner
+[.developer]
+Developer
 
+[.tut-content]
+==== {empty}
+[.summary]
 An comprehensive tutorial that demonstrates how to use Couchbase Server, Spring Data, Full-Text Search and Cross Data Center Replication (XDCR) to build a production-grade User Profile Store micro-service.
 
-++++
-<div class="other-info-list">
-++++
 
-[.box]
-
+[.tut-list]
+==== {empty}
 * xref:tutorials:profile-store:install.adoc[Start Here]
 * xref:tutorials:profile-store:dotnet.adoc[.NET]
 * xref:tutorials:profile-store:java.adoc[Java]
 
-[.box]
 .Component
 * Couchbase Server 6.0
 
-[.box]
 .Languages
 * Java
 * .NET
 
-++++
-</div>
-++++
+[.card.beginner.swift.mobile.developer]
+=== Xcode playground for Couchbase Lite Query
 
-[.column]
-[.data-filter-column]
-====== {empty}
-++++
-    <div data-category="beginner java dotnet developer" class="sub-heading two-column-heading">
-        <h3 class="text-color-brand-blue-secondary">Using Couchbase Server as a User Profile Store</h3>
-        <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
-        Beginner</h5>
-        <span>Developer</span>
-        </div>
-    </div>
-++++
-[.content]
+[.tut-metadata]
+==== {empty}
+[.tut-level]
+Beginner
+[.developer]
+Mobile Developer
 
-An comprehensive tutorial that demonstrates how to use Couchbase Server, Spring Data, Full Text Search, and Cross Data Center Replication (XDCR) to build a production-grade User Profile Store micro-service.
-
-++++
-<div class="other-info-list">
-++++
-
-[.box]
-
-* xref:tutorials:profile-store:install.adoc[Start Here]
-* xref:tutorials:profile-store:dotnet.adoc[.NET]
-* xref:tutorials:profile-store:java.adoc[Java]
-
-[.box]
-.Component
-* Couchbase Server 6.0
-
-[.box]
-.Languages
-* Java
-* .NET
-
-++++
-</div>
-++++
-
-[.column]
-[.data-filter-column]
-====== {empty}
-++++
-    <div data-category="beginner swift mobile developer" class="sub-heading two-column-heading">
-        <h3 class="text-color-brand-blue-secondary">Xcode playground for Couchbase Lite Query</h3>
-        <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
-        Beginner</h5>
-        <span>Mobile Developer</span>
-        </div>
-    </div>
-++++
-[.content]
-
+[.tut-content]
+==== {empty}
+[.summary]
 A Xcode Playground to demonstrate and explore the Query interface in Couchbase Lite 2.0. While the playground demonstrates the queries in swift, given the unified nature of the QueryBuilder API, you should be able to easily translate the queries to any of the other platform languages supported on Couchbase Lite.
 
-++++
-<div class="other-info-list">
-++++
 
-[.box]
-
+[.tut-list]
+==== {empty}
 * xref:tutorials:swift-playground:overview.adoc[Start Here]
 
-[.box]
 .Component
 * Couchbase Lite 2.1
 
-[.box]
 .Languages
 * Swift
 
-++++
-</div>
-++++
+[.card.intermediate.swift.android.java.c#.mobile.developer]
+=== Couchbase Mobile Workshop
 
-[.column]
-[.data-filter-column]
-====== {empty}
-++++
-    <div data-category="intermediate swift android java c# mobile developer" class="sub-heading two-column-heading">
-        <h3 class="text-color-brand-blue-secondary">Couchbase Mobile Workshop</h3>
-        <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/intermediate-icon.svg" alt="" />
-        Intermediate</h5>
-        <span>Mobile Developer</span>
-        </div>
-    </div>
-++++
-[.content]
+[.tut-metadata]
+==== {empty}
+[.tut-level]
+Intermediate
+[.developer]
+Mobile Developer
 
+[.tut-content]
+==== {empty}
+[.summary]
 An in-depth walkthrough of the Couchbase Mobile capabilities on iOS, Android, Java (desktop) and .NET (UWP and Xamarin) platforms.
 At the end of this multi-part tutorial, you should have a good understanding of how to architect a solution using Couchbase Mobile, including data modeling, sync, access control, channels, database CRUD and the query API in Couchbase Mobile.
 
-++++
-<div class="other-info-list">
-++++
 
-[.box]
-
+[.tut-list]
+==== {empty}
 * xref:tutorials:mobile-travel-sample:introduction.adoc[Start Here]
 * xref:tutorials:mobile-travel-sample:swift/installation/index.adoc[iOS]
 * xref:tutorials:mobile-travel-sample:android/installation/index.adoc[Android]
 * xref:tutorials:mobile-travel-sample:java/installation/index.adoc[Java]
 * xref:tutorials:mobile-travel-sample:csharp/installation/index.adoc[.NET]
 
-[.box]
 .Component
 * Couchbase Server 6.5
 * Couchbase Lite 2.7
 * Sync Gateway 2.7
 
-[.box]
 .Languages
 * Swift
 * Java (Android and Desktop)
 * C#
 
-++++
-</div>
-++++
+[.card.intermediate.javascript.developer]
+=== Customer 360 Data Ingestion
 
-[.column]
-[.data-filter-column]
-====== {empty}
-++++
-    <div data-category="intermediate javascript developer" class="sub-heading two-column-heading">
-        <h3 class="text-color-brand-blue-secondary">Customer 360 Data Ingestion</h3>
-        <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/intermediate-icon.svg" alt="" />
-        Intermediate</h5>
-        <span>Developer</span>
-        </div>
-    </div>
-++++
-[.content]
+[.tut-metadata]
+==== {empty}
+[.tut-level]
+Intermediate
+[.developer]
+Developer
 
+[.tut-content]
+==== {empty}
+[.summary]
 The goal of a Customer 360 system is to deliver a single, consistent view of all your data in one platform within an enterprise where that data is split up between many different systems. This tutorial will be focusing mainly on getting a complete view of a customer/person.
 
-++++
-<div class="other-info-list">
-++++
 
-[.box]
-
+[.tut-list]
+==== {empty}
 * xref:tutorials:customer-360:ingestion.adoc[Retail]
-
-[.box]
 .Component
 * Couchbase Server 6.0
 * Kafka
 * Docker
 
-[.box]
 .Languages
 * Javascript
 
-++++
-</div>
-++++
+[.card.intermediate.java.c#.developer]
+=== Using Couchbase Server as a Session Store
 
-[.column]
-[.data-filter-column]
-====== {empty}
-++++
-    <div data-category="intermediate java c# developer" class="sub-heading two-column-heading">
-        <h3 class="text-color-brand-blue-secondary">Using Couchbase Server as a Session Store</h3>
-        <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/intermediate-icon.svg" alt="" />
-        Intermediate</h5>
-        <span>Developer</span>
-        </div>
-    </div>
-++++
-[.content]
+[.tut-metadata]
+==== {empty}
+[.tut-level]
+Intermediate
+[.developer]
+Developer
 
+[.tut-content]
+==== {empty}
+[.summary]
 An in-depth tutorial that demonstrates how to use Couchbase Server for session storage.
 You will learn how to read, write session data and query session data with N1QL for business insights.
 
-++++
-<div class="other-info-list">
-++++
 
-[.box]
-
+[.tut-list]
+==== {empty}
 * xref:tutorials:session-storage:install.adoc[Start Here]
 * xref:tutorials:session-storage:aspnet.adoc[ASP.NET Core]
 * xref:tutorials:session-storage:java.adoc[Java]
 
-[.box]
 .Component
 * Couchbase Server 6.0
 
-[.box]
 .Languages
 * C#
 * Java
 
-++++
-</div>
-++++
+[.card.intermediate.java.developer]
+=== Boosting Spring Data Performance with Couchbase
 
-[.column]
-[.data-filter-column]
-====== {empty}
-++++
-    <div data-category="intermediate java developer" class="sub-heading two-column-heading">
-        <h3 class="text-color-brand-blue-secondary">Boosting Spring Data Performance with Couchbase</h3>
-        <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/intermediate-icon.svg" alt="" />
-        Intermediate</h5>
-        <span>Developer</span>
-        </div>
-    </div>
-++++
-[.content]
+[.tut-metadata]
+==== {empty}
+[.tut-level]
+Intermediate
+[.developer]
+Developer
 
+[.tut-content]
+==== {empty}
+[.summary]
 Spring Data provides an easy programming model for data access in both relational and non-relational databases. It became very popular among Java/JVM developers because of the small learning curve and low codebase.
 
 However, developers quite often run into performance issues while using it, this tutorial aims to explain some of the common problems and how to fix them.
 
 
-++++
-<div class="other-info-list">
-++++
-
-[.box]
-
+[.tut-list]
+==== {empty}
 * xref:tutorials:spring-data-indexes:spring-index.adoc[Start Here]
 
-
-[.box]
 .Component
 * Spring Data
 
-[.box]
 .Languages
 * Java
 
-++++
-</div>
-++++
+[.card.intermediate.java.mobile.developer]
+=== OpenID Connect with Sync Gateway
 
-[.column]
-[.data-filter-column]
-====== {empty}
-++++
-    <div data-category="intermediate java mobile developer" class="sub-heading two-column-heading">
-        <h3 class="text-color-brand-blue-secondary">OpenID Connect with Sync Gateway</h3>
-        <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/intermediate-icon.svg" alt="" />
-        Intermediate</h5>
-        <span>Mobile Developer</span>
-        </div>
-    </div>
-++++
-[.content]
+[.tut-metadata]
+==== {empty}
+[.tut-level]
+Intermediate
+[.developer]
+Mobile Developer
 
+[.tut-content]
+==== {empty}
+[.summary]
 A complete tutorial on how to set up an OpenID Connect authentication (using the implicit flow method) for Couchbase Sync Gateway.
 
-++++
-<div class="other-info-list">
-++++
-
-[.box]
-
+[.tut-list]
+==== {empty}
 * xref:tutorials:openid-connect-implicit-flow:index.adoc[Start Here]
 
-[.box]
 .Component
 * Couchbase Server 6.5
 * Couchbase Lite 2.7
 * Sync Gateway 2.7
 * Keycloak
 
-[.box]
 .Languages
 * Java
 
-++++
-</div>
-++++
+[.card.beginner.developer]
+=== Build Your Own Tutorial
 
+[.tut-metadata]
+==== {empty}
+[.tut-level]
+Beginner
+[.developer]
+Developer
 
-[.column]
-[.data-filter-column]
-====== {empty}
-++++
-    <div data-category="beginner developer" class="sub-heading two-column-heading">
-        <h3 class="text-color-brand-blue-secondary">Build Your Own Tutorial</h3>
-        <div class="filter-info">
-        <h5 >
-        <img src="_/img/landing-page-icon/beginner-icon.svg" alt="" />
-        Beginner</h5>
-        <span>Developer</span>
-        </div>
-    </div>
-++++
-[.content]
-
+[.tut-content]
+==== {empty}
+[.summary]
 Looking to build a tutorial and share with the Couchbase community? Take a look at our tutorial template you could use as a starting point.
 
-++++
-<div class="other-info-list">
-++++
-
-[.box]
-
+[.tut-list]
+==== {empty}
 * xref:tutorials:tutorial-template:sample.adoc[Tutorial Template]
 
-[.box]
 .Component
 * Couchbase Tutorials
 
-[.box]
 .Languages
 * AsciiDoc
-
-++++
-</div>
-++++
-
-++++
-</div>
-++++
