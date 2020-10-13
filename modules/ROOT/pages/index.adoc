@@ -258,11 +258,8 @@ The series of tutorials demonstrates the core capabilities of Couchbase Mobile w
 :param-module: swift
 include::partial$p2p-sync-entry-skeleton.adoc[]
 
-<<<<<<< HEAD
 // Uncomment the following as the platforms are available
 
-=======
->>>>>>> Display P2P iOS tutorial for now
 // :param-language: Java
 // :param-module: java
 // include::partial$p2p-sync-entry-skeleton.adoc[]
@@ -276,10 +273,7 @@ include::partial$p2p-sync-entry-skeleton.adoc[]
 // :param-platform: Xamarin
 // :param-module: csharp
 // include::partial$p2p-sync-entry-skeleton.adoc[]
-<<<<<<< HEAD
 
-=======
->>>>>>> Display P2P iOS tutorial for now
 // END include P2P sync over websocket tutorials - one entry per language/platform
 
 
