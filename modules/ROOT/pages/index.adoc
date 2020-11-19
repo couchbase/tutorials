@@ -269,10 +269,10 @@ include::partial$p2p-sync-entry-skeleton.adoc[]
 // :param-platform: Android
 // include::partial$p2p-sync-entry-skeleton.adoc[]
 
-// :param-language: C#.Net
-// :param-platform: Xamarin
-// :param-module: csharp
-// include::partial$p2p-sync-entry-skeleton.adoc[]
+:param-language: C#
+:param-platform: Xamarin
+:param-module: dotnet
+include::partial$p2p-sync-entry-skeleton.adoc[]
 
 // END include P2P sync over websocket tutorials - one entry per language/platform
 
