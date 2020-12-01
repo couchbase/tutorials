@@ -1,10 +1,13 @@
 include::partial$_attributes-local.adoc[]
 
+.Get Started with Couchbase Cloud Self-Service Trials
+include::cbc-self-service-trials:partial$nav.adoc[]
+
+.Get Started with Couchbase Community Edition
+include::getting-started-ce:partial$nav.adoc[]
+
 .Developer Bootstrap Exercises
 include::quick-start:partial$nav.adoc[]
-
-.Getting Started with Couchbase Community Edition
-include::getting-started-ce:partial$nav.adoc[]
 
 .Tutorials
 .Couchbase Server
