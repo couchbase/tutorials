@@ -33,8 +33,8 @@ pass:[<i class="fas fa-book-reader fa-7x"></i>]
 [.data-filter-column]
 ====== {empty}
 ++++
-<div data-category="beginner java nodejs dotnet developer" class="sub-heading two-column-heading">
-<h3 class="text-color-brand-blue-secondary">Developer Bootstrap Exercises</h3>
+<div data-category="beginner developer" class="sub-heading two-column-heading">
+<h3 class="text-color-brand-blue-secondary">Couchbase Cloud First-Timer Tutorial Series</h3>
 <div class="filter-info">
 ++++
 pass:attributes[<h5><img src="{url-icon-beginner}" alt="" />Beginner</h5><span>Developer</span>]
@@ -44,9 +44,9 @@ pass:attributes[<h5><img src="{url-icon-beginner}" alt="" />Beginner</h5><span>D
 ++++
 [.content]
 
-Are you a developer interested in a fast start with Couchbase? This expanding set of basic first-steps exercises provide a fast track from zero to your substantial interactions with Couchbase Server using your favorite development frameworks and IDEs.
+This series of “First Timer” tutorials is intended to get you going quickly with your Couchbase Cloud FREE Trial and provide a whirlwind tour of important Couchbase Cloud capabilities at a high level. 
 
-xref:quick-start:quickstart-docker-image-manual-cb65.adoc[Start Here]
+xref:cbc-self-service-trials:index.adoc[Start Here]
 
 ++++
 <div class="other-info-list">
@@ -56,21 +56,11 @@ xref:quick-start:quickstart-docker-image-manual-cb65.adoc[Start Here]
 [.component]
 
 .Component
-* Server 6.5 CE or EE
-* SDK 3.0 or 2.x
-
-[.box]
-[.languages]
-
-.Languages
-* Java
-* Node.js
-* .NET
+* Couchbase Cloud
 
 ++++
 </div>
 ++++
-
 
 
 [.column]
@@ -110,6 +100,49 @@ xref:getting-started-ce:index.adoc[Start Here]
 ++++
 </div>
 ++++
+
+[.column]
+[.data-filter-column]
+====== {empty}
+++++
+<div data-category="beginner java nodejs dotnet developer" class="sub-heading two-column-heading">
+<h3 class="text-color-brand-blue-secondary">Developer Bootstrap Exercises</h3>
+<div class="filter-info">
+++++
+pass:attributes[<h5><img src="{url-icon-beginner}" alt="" />Beginner</h5><span>Developer</span>]
+++++
+</div>
+</div>
+++++
+[.content]
+
+Are you a developer interested in a fast start with Couchbase? This expanding set of basic first-steps exercises provide a fast track from zero to your substantial interactions with Couchbase Server using your favorite development frameworks and IDEs.
+
+xref:quick-start:quickstart-docker-image-manual-cb65.adoc[Start Here]
+
+++++
+<div class="other-info-list">
+++++
+
+[.box]
+[.component]
+
+.Component
+* Server 6.5 CE or EE
+* SDK 3.0 or 2.x
+
+[.box]
+[.languages]
+
+.Languages
+* Java
+* Node.js
+* .NET
+
+++++
+</div>
+++++
+
 
 [.column]
 [.data-filter-column]
