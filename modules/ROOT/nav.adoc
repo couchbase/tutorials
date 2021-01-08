@@ -2,6 +2,7 @@ include::partial$_attributes-local.adoc[]
 
 .Get Started with Couchbase Cloud Self-Service Trials
 include::cbc-self-service-trials:partial$nav.adoc[]
+* xref:cbc-azure-cloud:azure-cloud-connection-prerequisites.adoc[Azure Cloud Connection Prerequisites]
 
 .Get Started with Couchbase Community Edition
 include::getting-started-ce:partial$nav.adoc[]
