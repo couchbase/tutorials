@@ -34,7 +34,7 @@ pass:[<i class="fas fa-book-reader fa-7x"></i>]
 ====== {empty}
 ++++
 <div data-category="beginner developer" class="sub-heading two-column-heading">
-<h3 class="text-color-brand-blue-secondary">Couchbase Cloud First-Timer Tutorial Series</h3>
+<h3 class="text-color-brand-blue-secondary">Couchbase Capella First-Timer Tutorial Series</h3>
 <div class="filter-info">
 ++++
 pass:attributes[<h5><img src="{url-icon-beginner}" alt="" />Beginner</h5><span>Developer</span>]
@@ -44,7 +44,7 @@ pass:attributes[<h5><img src="{url-icon-beginner}" alt="" />Beginner</h5><span>D
 ++++
 [.content]
 
-This series of “First Timer” tutorials is intended to get you going quickly with your Couchbase Cloud FREE Trial and provide a whirlwind tour of important Couchbase Cloud capabilities at a high level. 
+This series of “First Timer” tutorials is intended to get you going quickly with your Couchbase Capella FREE Trial and provide a whirlwind tour of important Couchbase Capella capabilities at a high level. 
 
 xref:cbc-self-service-trials:index.adoc[Start Here]
 
@@ -56,7 +56,7 @@ xref:cbc-self-service-trials:index.adoc[Start Here]
 [.component]
 
 .Component
-* Couchbase Cloud
+* Couchbase Capella
 
 ++++
 </div>
