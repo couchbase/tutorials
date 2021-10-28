@@ -1,6 +1,6 @@
 include::partial$_attributes-local.adoc[]
 
-.Get Started with Couchbase Cloud Self-Service Trials
+.Get Started with Couchbase Capella Self-Service Trials
 include::cbc-self-service-trials:partial$nav.adoc[]
 
 .Get Started with Couchbase Community Edition
