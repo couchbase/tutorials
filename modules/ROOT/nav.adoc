@@ -9,32 +9,28 @@ include::getting-started-ce:partial$nav.adoc[]
 .Developer Bootstrap Exercises
 include::quick-start:partial$nav.adoc[]
 
-.Tutorials
 .Couchbase Server
 * Session Storage
 include::session-storage:partial$nav.adoc[]
+xref::session-storage:partial$nav.adoc[]
 * User Profile Storage
 include::profile-store:partial$nav.adoc[]
 
 .Couchbase Mobile
-
 * Travel Sample
 include::mobile-travel-sample:partial$nav.adoc[]
-* xref:standalone@userprofile-couchbase-mobile:userprofile:userprofile_basic.adoc[Getting Started on iOS]
-* xref:standalone@userprofile-couchbase-mobile:userprofile:xamarin/userprofile_basic.adoc[Getting Started on Xamarin]
-* xref:standalone@userprofile-couchbase-mobile:userprofile:android/userprofile_basic.adoc[Getting Started on Android]
-// * Getting Started with Peer-to-Peer Sync
-include::cbl-p2p-sync-websockets:partial$/nav.adoc[]
-// * Xcode Playground
-* xref:tutorials:swift-playground:overview.adoc[Xcode Playground]
-* Recycler Views with Live Queries
-include::university-lister:partial$nav.adoc[]
-* Build a Cordova Plugin
-include::hotel-lister:partial$nav.adoc[]
-* Build a React Native Module
-include::hotel-finder:partial$nav.adoc[]
-* OpenID Connect Tutorial
-include::openid-connect-implicit-flow:partial$nav.adoc[]
+include::userprofile-sync:partial$nav.adoc[]
+include::cbl-p2p-sync-websockets:partial$nav.adoc[]
+
+// * xref:tutorials:swift-playground:overview.adoc[Xcode Playground]
+// * Recycler Views with Live Queries
+// include::university-lister:partial$nav.adoc[]
+// * Build a Cordova Plugin
+// include::hotel-lister:partial$nav.adoc[]
+// * Build a React Native Module
+// include::hotel-finder:partial$nav.adoc[]
+// * OpenID Connect Tutorial
+// include::openid-connect-implicit-flow:partial$nav.adoc[]
 
 .Build Your Own
 * Tutorial Template

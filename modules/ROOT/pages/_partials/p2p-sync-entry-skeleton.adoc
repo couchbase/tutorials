@@ -33,7 +33,7 @@ This tutorial uses a simple inventory tracker app to demonstrate the peer-to-pee
 
 [.box]
 .Component
-* Couchbase Lite 2.8
+* Couchbase Lite {param-version}
 
 [.box]
 .Languages
