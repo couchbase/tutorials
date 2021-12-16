@@ -44,7 +44,7 @@ pass:attributes[<h5><img src="{url-icon-beginner}" alt="" />Beginner</h5><span>D
 ++++
 [.content]
 
-This series of “First Timer” tutorials is intended to get you going quickly with your Couchbase Capella FREE Trial and provide a whirlwind tour of important Couchbase Capella capabilities at a high level. 
+This series of “First Timer” tutorials is intended to get you going quickly with your Couchbase Capella FREE Trial and provide a whirlwind tour of important Couchbase Capella capabilities at a high level.
 
 xref:cbc-self-service-trials:index.adoc[Start Here]
 
@@ -161,31 +161,25 @@ pass:attributes[<h5><img src="{url-icon-beginner}" alt="" />Beginner</h5><span>M
 
 The series of tutorials demonstrates the core capabilities of Couchbase Mobile with an iOS app:
 
-* "Standalone": database and CRUD operations.
-* "Query": querying capabilities.
-* "Sync": use of Sync Gateway for data sync between clients.
-
+* Standalone: Learn about Couchbase Lite's database and CRUD operations.
+* Query: Explore Couchbase Lite's query capabilities.
+* Sync: Couple Couchbase Lite with Sync Gateway to tap into the power of data sync.
 
 ++++
 <div class="other-info-list">
 ++++
 
 [.box]
-
-* xref:standalone@userprofile-couchbase-mobile:userprofile:userprofile_basic.adoc[Standalone]
-* xref:query@userprofile-couchbase-mobile:userprofile:userprofile_query.adoc[Query]
-* xref:sync@userprofile-couchbase-mobile:userprofile:userprofile_sync.adoc[Sync]
-
-
-[.box]
-.Component
-* Server 5.5
-* Couchbase Lite 2.1
-* Sync Gateway 2.1
+.Components Used
+* Server 7.0
+* Couchbase Lite 3.0
+* Sync Gateway 3.0
 
 [.box]
 .Languages
-* Swift
+* iOS 12
+* Swift 5.5
+* Xcode 12.5
 
 ++++
 </div>
@@ -289,66 +283,70 @@ The series of tutorials demonstrates the core capabilities of Couchbase Mobile w
 :param-language: Swift
 :param-platform: iOS
 :param-module: swift
+:param-version: 2.8
 include::partial$p2p-sync-entry-skeleton.adoc[]
 
 // Uncomment the following as the platforms are available
 
 // :param-language: Java
 // :param-module: java
+// :param-version: 2.8
 // include::partial$p2p-sync-entry-skeleton.adoc[]
 
 // :param-language: Android (Java)
 // :param-module: android
 // :param-platform: Android
+// :param-version: 2.8
 // include::partial$p2p-sync-entry-skeleton.adoc[]
 
 :param-language: C#
 :param-platform: Xamarin
 :param-module: dotnet
+:param-version: 3.0.0-beta02
 include::partial$p2p-sync-entry-skeleton.adoc[]
 
 // END include P2P sync over websocket tutorials - one entry per language/platform
 
 
-[.column]
-[.data-filter-column]
-====== {empty}
-++++
-    <div data-category="beginner swift mobile developer" class="sub-heading two-column-heading">
-        <h3 class="text-color-brand-blue-secondary">Background Fetch with Couchbase Lite on iOS</h3>
-        <div class="filter-info">
-++++
-pass:attributes[<h5><img src="{url-icon-beginner}" alt="" />Beginner</h5><span>Mobile Developer</span>]
-++++
-        </div>
-    </div>
-++++
-[.content]
+// [.column]
+// [.data-filter-column]
+// ====== {empty}
+// ++++
+//     <div data-category="beginner swift mobile developer" class="sub-heading two-column-heading">
+//         <h3 class="text-color-brand-blue-secondary">Background Fetch with Couchbase Lite on iOS</h3>
+//         <div class="filter-info">
+// ++++
+// pass:attributes[<h5><img src="{url-icon-beginner}" alt="" />Beginner</h5><span>Mobile Developer</span>]
+// ++++
+//         </div>
+//     </div>
+// ++++
+// [.content]
 
-This tutorial discusses how you can use iOS Background App Refresh capability to sync data when in the background.
+// This tutorial discusses how you can use iOS Background App Refresh capability to sync data when in the background.
 
-++++
-<div class="other-info-list">
-++++
+// ++++
+// <div class="other-info-list">
+// ++++
 
-[.box]
+// [.box]
 
-* xref:backgroundfetch@userprofile-couchbase-mobile:userprofile:background-fetch.adoc[Start Here]
+// * xref:backgroundfetch@userprofile-couchbase-mobile:userprofile:background-fetch.adoc[Start Here]
 
 
-[.box]
-.Component
-* Server 5.5
-* Couchbase Lite 2.1
-* Sync Gateway 2.1
+// [.box]
+// .Component
+// * Server 5.5
+// * Couchbase Lite 2.1
+// * Sync Gateway 2.1
 
-[.box]
-.Languages
-* Swift
+// [.box]
+// .Languages
+// * Swift
 
-++++
-</div>
-++++
+// ++++
+// </div>
+// ++++
 
 [.column]
 [.data-filter-column]
