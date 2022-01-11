@@ -230,16 +230,15 @@ The series of tutorials demonstrates the core capabilities of Couchbase Mobile w
 
 [.box]
 .Modules
-* xref:standalone@userprofile-couchbase-mobile:userprofile:android/userprofile_basic.adoc[Standalone]
-* xref:query@userprofile-couchbase-mobile:userprofile:android/userprofile_query.adoc[Query]
-* xref:sync@userprofile-couchbase-mobile:userprofile:android/userprofile_sync.adoc[Sync]
-
+* xref:userprofile-standalone-android:userprofile_basic.adoc[Standalone]
+* xref:userprofile-query-android:userprofile_query.adoc[Query]
+* xref:userprofile-sync-android:userprofile_sync.adoc[Sync]
 
 [.box]
 .Component
-* Server 5.5
-* Couchbase Lite 2.6
-* Sync Gateway 2.6
+* Server 7.0
+* Couchbase Lite 3.0
+* Sync Gateway 3.0
 
 [.box]
 .Languages
