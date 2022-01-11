@@ -19,8 +19,11 @@ include::profile-store:partial$nav.adoc[]
 .Couchbase Mobile
 * Travel Sample
 include::mobile-travel-sample:partial$nav.adoc[]
+// Getting Started on iOS
 include::userprofile-sync:partial$nav.adoc[]
+// Getting Started on Xamarin
 include::userprofile-sync-xamarin:partial$nav.adoc[]
+
 include::cbl-p2p-sync-websockets:partial$nav.adoc[]
 
 // * xref:tutorials:swift-playground:overview.adoc[Xcode Playground]
