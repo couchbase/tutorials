@@ -23,6 +23,8 @@ include::mobile-travel-sample:partial$nav.adoc[]
 include::userprofile-sync:partial$nav.adoc[]
 // Getting Started on Xamarin
 include::userprofile-sync-xamarin:partial$nav.adoc[]
+// Getting Started on Android
+include::userprofile-sync-android:partial$nav.adoc[]
 
 include::cbl-p2p-sync-websockets:partial$nav.adoc[]
 
