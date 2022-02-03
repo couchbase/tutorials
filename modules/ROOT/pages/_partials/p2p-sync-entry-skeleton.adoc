@@ -34,6 +34,9 @@ This tutorial uses a simple inventory tracker app to demonstrate the peer-to-pee
 [.box]
 .Component
 * Couchbase Lite {param-version}
+* Visual Studio 2019+
+* .Net Core 3.1
+* Xamarin Forms 5.0.0.2012
 
 [.box]
 .Languages

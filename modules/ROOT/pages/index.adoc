@@ -323,7 +323,8 @@ include::partial$p2p-sync-entry-skeleton.adoc[]
 :param-language: C#
 :param-platform: Xamarin
 :param-module: dotnet
-:param-version: 2.8
+:param-version: 3.0
+
 include::partial$p2p-sync-entry-skeleton.adoc[]
 
 // END include P2P sync over websocket tutorials - one entry per language/platform
