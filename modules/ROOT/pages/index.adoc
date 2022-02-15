@@ -370,87 +370,89 @@ include::partial$p2p-sync-entry-skeleton.adoc[]
 // </div>
 // ++++
 
-[.column]
-[.data-filter-column]
-====== {empty}
-++++
-    <div data-category="beginner swift java javascript mobile developer" class="sub-heading two-column-heading">
-        <h3 class="text-color-brand-blue-secondary">Building a Cordova Plugin with Couchbase Lite</h3>
-        <div class="filter-info">
-++++
-pass:attributes[<h5><img src="{url-icon-beginner}" alt="" />Beginner</h5><span>Mobile Developer</span>]
-++++
-        </div>
-    </div>
-++++
-[.content]
+// CORDOVA TUTORIAL
+// [.column]
+// [.data-filter-column]
+// ====== {empty}
+// ++++
+//     <div data-category="beginner swift java javascript mobile developer" class="sub-heading two-column-heading">
+//         <h3 class="text-color-brand-blue-secondary">Building a Cordova Plugin with Couchbase Lite</h3>
+//         <div class="filter-info">
+// ++++
+// pass:attributes[<h5><img src="{url-icon-beginner}" alt="" />Beginner</h5><span>Mobile Developer</span>]
+// ++++
+//         </div>
+//     </div>
+// ++++
+// [.content]
 
-In this tutorial, you will learn how to use Couchbase Lite in a Cordova plugin for an Ionic project targeting iOS and Android.
-The user Interface is written in JavaScript while the business logic and data model is written in native Swift/Java.
+// In this tutorial, you will learn how to use Couchbase Lite in a Cordova plugin for an Ionic project targeting iOS and Android.
+// The user Interface is written in JavaScript while the business logic and data model is written in native Swift/Java.
 
-++++
-<div class="other-info-list">
-++++
+// ++++
+// <div class="other-info-list">
+// ++++
 
-[.box]
+// [.box]
 
-* xref:tutorials:hotel-lister:ios.adoc[Swift]
-* xref:tutorials:hotel-lister:android.adoc[Java]
+// * xref:tutorials:hotel-lister:ios.adoc[Swift]
+// * xref:tutorials:hotel-lister:android.adoc[Java]
 
-[.box]
-.Component
-* Couchbase Lite 2.1
+// [.box]
+// .Component
+// * Couchbase Lite 2.1
 
-[.box]
-.Languages
-* Swift
-* Java
-* Javascript
+// [.box]
+// .Languages
+// * Swift
+// * Java
+// * Javascript
 
-++++
-</div>
-++++
+// ++++
+// </div>
+// ++++
 
-[.column]
-[.data-filter-column]
-====== {empty}
-++++
-    <div data-category="beginner swift java javascript mobile developer" class="sub-heading two-column-heading">
-        <h3 class="text-color-brand-blue-secondary">Building a React Native Module with Couchbase Lite</h3>
-        <div class="filter-info">
-++++
-pass:attributes[<h5><img src="{url-icon-beginner}" alt="" />Beginner</h5><span>Mobile Developer</span>]
-++++
-        </div>
-    </div>
-++++
-[.content]
+// REACT TUTORIAL
+// [.column]
+// [.data-filter-column]
+// ====== {empty}
+// ++++
+//     <div data-category="beginner swift java javascript mobile developer" class="sub-heading two-column-heading">
+//         <h3 class="text-color-brand-blue-secondary">Building a React Native Module with Couchbase Lite</h3>
+//         <div class="filter-info">
+// ++++
+// pass:attributes[<h5><img src="{url-icon-beginner}" alt="" />Beginner</h5><span>Mobile Developer</span>]
+// ++++
+//         </div>
+//     </div>
+// ++++
+// [.content]
 
-In this tutorial, you will learn how to use Couchbase Lite in a React Native project for iOS and Android.
-The user Interface is written in JavaScript while the business logic and data model is written in native Swift/Java.
+// In this tutorial, you will learn how to use Couchbase Lite in a React Native project for iOS and Android.
+// The user Interface is written in JavaScript while the business logic and data model is written in native Swift/Java.
 
-++++
-<div class="other-info-list">
-++++
+// ++++
+// <div class="other-info-list">
+// ++++
 
-[.box]
+// [.box]
 
-* xref:tutorials:hotel-finder:ios.adoc[Swift]
-* xref:tutorials:hotel-finder:android.adoc[Java]
+// * xref:tutorials:hotel-finder:ios.adoc[Swift]
+// * xref:tutorials:hotel-finder:android.adoc[Java]
 
-[.box]
-.Component
-* Couchbase Lite 2.6
+// [.box]
+// .Component
+// * Couchbase Lite 2.6
 
-[.box]
-.Languages
-* Swift
-* Java
-* Javascript
+// [.box]
+// .Languages
+// * Swift
+// * Java
+// * Javascript
 
-++++
-</div>
-++++
+// ++++
+// </div>
+// ++++
 
 
 [.column]
@@ -490,42 +492,43 @@ A Xcode Playground to explore the Query API in Couchbase Lite 2.x. While the pla
 </div>
 ++++
 
-[.column]
-[.data-filter-column]
-====== {empty}
-++++
-    <div data-category="beginner android java dotnet mobile developer" class="sub-heading two-column-heading">
-        <h3 class="text-color-brand-blue-secondary">Android Recycler Views with Couchbase Lite</h3>
-        <div class="filter-info">
-++++
-pass:attributes[<h5><img src="{url-icon-beginner}" alt="" />Beginner</h5><span>Mobile Developer</span>]
-++++
-        </div>
-    </div>
-++++
-[.content]
+// RECYCLER VIEW TUTORIAL
+// [.column]
+// [.data-filter-column]
+// ====== {empty}
+// ++++
+//     <div data-category="beginner android java dotnet mobile developer" class="sub-heading two-column-heading">
+//         <h3 class="text-color-brand-blue-secondary">Android Recycler Views with Couchbase Lite</h3>
+//         <div class="filter-info">
+// ++++
+// pass:attributes[<h5><img src="{url-icon-beginner}" alt="" />Beginner</h5><span>Mobile Developer</span>]
+// ++++
+//         </div>
+//     </div>
+// ++++
+// [.content]
 
-This tutorial will demonstrate how you can use Couchbase Lite as a data source for Recycler Views in your Android application.
+// This tutorial will demonstrate how you can use Couchbase Lite as a data source for Recycler Views in your Android application.
 
-++++
-<div class="other-info-list">
-++++
+// ++++
+// <div class="other-info-list">
+// ++++
 
-[.box]
+// [.box]
 
-* xref:tutorials:university-lister:android.adoc[Start Here]
+// * xref:tutorials:university-lister:android.adoc[Start Here]
 
-[.box]
-.Component
-* Couchbase Lite 2.1
+// [.box]
+// .Component
+// * Couchbase Lite 2.1
 
-[.box]
-.Languages
-* Java
+// [.box]
+// .Languages
+// * Java
 
-++++
-</div>
-++++
+// ++++
+// </div>
+// ++++
 
 [.column]
 [.data-filter-column]
