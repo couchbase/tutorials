@@ -626,6 +626,7 @@ pass:attributes[<h5><img src="{url-icon-intermediate}" alt="" />Intermediate</h5
 [.content]
 
 An in-depth walkthrough of the Couchbase Mobile capabilities on iOS, Android, Java (desktop) and .NET (UWP and Xamarin) platforms.
+
 At the end of this multi-part workshop, you should have a good understanding of how to architect a solution using Couchbase Mobile, including data modeling, sync, access control, channels, database CRUD and the query API in Couchbase Mobile.
 
 ++++
@@ -634,23 +635,23 @@ At the end of this multi-part workshop, you should have a good understanding of 
 
 [.box]
 
-* xref:tutorials:mobile-travel-sample:introduction.adoc[Start Here]
-* xref:tutorials:mobile-travel-sample:swift/installation/index.adoc[iOS]
-* xref:tutorials:mobile-travel-sample:android/installation/index.adoc[Android]
-* xref:tutorials:mobile-travel-sample:java/installation/index.adoc[Java]
-* xref:tutorials:mobile-travel-sample:csharp/installation/index.adoc[.NET]
+* xref:tutorials:mobile-travel-tutorial:introduction.adoc[Start Here]
+* xref:tutorials:mobile-travel-tutorial:swift/installation/index.adoc[iOS]
+* xref:tutorials:mobile-travel-tutorial:android/installation/index.adoc[Android]
+* xref:tutorials:mobile-travel-tutorial:java/installation/index.adoc[Java]
+* xref:tutorials:mobile-travel-tutorial:csharp/installation/index.adoc[.NET]
 
 [.box]
 .Component
-* Couchbase Server 6.5
-* Couchbase Lite 2.8
-* Sync Gateway 2.8
+* Couchbase Server 7.0
+* Couchbase Lite 3.0
+* Sync Gateway 3.0
 
 [.box]
 .Languages
 * Swift
 * Java (Android and Desktop)
-* C#
+* C#/.Net/Xamarin
 
 ++++
 </div>
